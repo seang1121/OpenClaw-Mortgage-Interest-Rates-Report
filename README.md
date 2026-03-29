@@ -1,10 +1,11 @@
-# 🦞 OpenClaw Mortgage Rate Scanner
+> **Set it up once. Never check a bank website again.** Daily mortgage rate comparisons from 10 lenders, delivered to your Discord automatically.
 
-> Daily mortgage rate comparisons from **10 lenders** and **2 national benchmarks**, delivered to your Discord automatically via [OpenClaw](https://openclaw.ai). Set it up once, never check a bank website again.
+# OpenClaw Mortgage Rate Scanner
+
+> Looking for just the scraper without Discord delivery? See [Multi-Lender-Mortgage-Rate-Lookup](https://github.com/seang1121/Multi-Lender-Mortgage-Rate-Lookup).
 
 ![Lenders](https://img.shields.io/badge/lenders-10-brightgreen)
 ![Benchmarks](https://img.shields.io/badge/benchmarks-2-blue)
-![Schedule](https://img.shields.io/badge/runs-daily-orange)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-integration-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
